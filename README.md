@@ -30,12 +30,19 @@ Splited data into training and evaluation datasets with test_size=0.33, random_s
 Oversampled because the dataset is imbalance by importing SMOTE
  The seven classification Algorithms were applied to train the dataset which include:
 •	Random Forest Classifier ()
+
 •	Support Vector Classifier ()
+
 •	Logistic Regression ()
+
 •	Extreme Gradient Boosting Classifier ()
+
 •	Stochastic Gradient Descent Classifier ()
+
 •	Gaussian Naïve Base ()
+
 •	Decision Tree Classifier ()
+
 Hyper Parameter Optimization Tunning of the model were also applied on the 7 classsification Algorithms.
 
 ## Evaluation of Metrics
