@@ -79,4 +79,4 @@ By implementing these strategies, Connecttel can:
 •	XGBC, RFC, and DTC are the top-performing models for predicting churn in an imbalanced class dataset.
 •	They demonstrate a good balance of metrics, including relative low FN rates, high recall, high AUC/ROC scores, high F1-scores, and high precision rates.
 •	These models are suitable for identifying true positives (churners) while minimizing errors.
-The Customer Churn prediction using supervised Machine Learning technique indicates the effectiveness of machine learning algorithms XGBC, RFC and DTC in identifying true positive churners while minimizing errors of False negative, should be deployed by ConnecTtel for business sustainability and growth.
+The Customer Churn prediction using supervised Machine Learning technique indicates the effectiveness of machine learning algorithms XGBC, RFC and DTC in identifying true positive churners while minimizing errors of False negative, should be deployed by ConnectTel for business sustainability and growth.
