@@ -29,6 +29,7 @@ Steps taken:
 Splited data into training and evaluation datasets with test_size=0.33, random_state=42
 Oversampled because the dataset is imbalance by importing SMOTE
  The seven classification Algorithms were applied to train the dataset which include:
+ 
 •	Random Forest Classifier ()
 
 •	Support Vector Classifier ()
