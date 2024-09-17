@@ -4,8 +4,8 @@
 
 
 ## Project Overview
-•	ConnectTel Telecom Company faces the pressing need to address customer churn, which poses a significant threat to its business sustainability and growth.
-•	The company's current customer retention strategies lack precision and effectiveness, resulting in the loss of valuable customers to competitors.
+ConnectTel Telecom Company faces the pressing need to address customer churn, which poses a significant threat to its business sustainability and growth.
+The company's current customer retention strategies lack precision and effectiveness, resulting in the loss of valuable customers to competitors.
 
 ## Project Objective
 Develop a predictive analytics solution to identify high-risk customers and implement targeted retention strategies to reduce customer churn, enhancing ConnectTel's business sustainability and growth.
