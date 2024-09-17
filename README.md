@@ -3,16 +3,6 @@
 ![Untitled](https://github.com/user-attachments/assets/04abb1a0-7bcb-49ba-bf5a-19a1a6209888)
 
 
-## TABLE OF CONTENT 
--(Project Overview).(#project-overview)
--(Project Objective).(#project-objective)
--(Data Sources).(#data-sources)
--(Data Preprocessing).(#data-preprocessing)
--(Machine Learning Model).(#machine-learning-model)
--(Evaluation of Metrics).(#evaluation-of-metrics)
--(Potential Benefits and Recommendation). (#potential-Benefits-and-Recommendation)
--(Conclusion).(#conclusion)
-
 ## Project Overview
 •	ConnectTel Telecom Company faces the pressing need to address customer churn, which poses a significant threat to its business sustainability and growth.
 •	The company's current customer retention strategies lack precision and effectiveness, resulting in the loss of valuable customers to competitors.
@@ -81,4 +71,4 @@ By implementing these strategies, Connecttel can:
 •	XGBC, RFC, and DTC are the top-performing models for predicting churn in an imbalanced class dataset.
 •	They demonstrate a good balance of metrics, including relative low FN rates, high recall, high AUC/ROC scores, high F1-scores, and high precision rates.
 •	These models are suitable for identifying true positives (churners) while minimizing errors.
-The Customer Churn prediction using supervised Machine Learning technique indicates the effectiveness of machine learning algorithms XGBC, RFC and DTC in identifying true positive churners while minimizing errors of False negative, should be deployed by Connecttel for business sustainability and growth.
+The Customer Churn prediction using supervised Machine Learning technique indicates the effectiveness of machine learning algorithms XGBC, RFC and DTC in identifying true positive churners while minimizing errors of False negative, should be deployed by ConnecTtel for business sustainability and growth.
